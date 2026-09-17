@@ -1,3 +1,6 @@
+> [!WARNING]
+> This is a **minimal beta version** of the CORDS repository. The implementation and training examples are still being refined. For questions or feedback, please contact [tin.hadzi@gmail.com](mailto:tin.hadzi@gmail.com).
+
 <div align="center">
 
 # CORDS
