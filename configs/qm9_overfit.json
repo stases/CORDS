@@ -1,0 +1,13 @@
+{
+  "task": "qm9",
+  "steps": 100,
+  "output": "runs/qm9",
+  "seed": 0,
+  "batch_size": 3,
+  "width": 32,
+  "field_samples": 128,
+  "field_sigma": 0.35,
+  "learning_rate": 0.001,
+  "density_weight": 4.0,
+  "overfit": true
+}

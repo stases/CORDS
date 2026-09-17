@@ -1,0 +1,14 @@
+{
+  "task": "mnist",
+  "steps": 100,
+  "output": "runs/mnist",
+  "seed": 0,
+  "batch_size": 2,
+  "width": 8,
+  "image_size": 96,
+  "num_digits": 3,
+  "image_sigma": 2.0,
+  "learning_rate": 0.001,
+  "count_weight": 1.0,
+  "overfit": true
+}

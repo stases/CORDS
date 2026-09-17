@@ -1,0 +1,18 @@
+# Python 3.10 or newer. Run the code directly from this checkout.
+# Numerical reconstruction and models
+numpy>=1.24
+torch>=2.2
+scipy>=1.10
+pillow>=10
+
+# Notebooks and visualizations
+matplotlib>=3.7
+plotly>=5.18
+ipywidgets>=8
+jupyterlab>=4
+
+# Verification and notebook execution
+pytest>=8
+nbformat>=5
+nbclient>=0.10
+ipykernel>=6
