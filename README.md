@@ -1,13 +1,17 @@
 > [!WARNING]
-> This is a **minimal beta version** of the CORDS repository. The implementation and training examples are still being refined. For questions or feedback, please contact [tin.hadzi@gmail.com](mailto:tin.hadzi@gmail.com).
+> **Beta release.** This repository provides a minimal implementation accompanying
+> [**CORDS: Continuous Representations of Discrete Structures**](https://arxiv.org/abs/2601.21583) (ICLR 2026).
+> It includes the core field representation, reconstruction tools, and introductory
+> notebooks. Training and generation examples remain experimental.
+>
+> For questions about the paper or this implementation, please contact
+> Tin Hadži Veljković at [tin.hadzi@gmail.com](mailto:tin.hadzi@gmail.com).
 
 <div align="center">
 
-# CORDS
+# CORDS: Continuous Representations of Discrete Structures
 
-### Continuous Representations of Discrete Structures
-
-**ICLR 2026**
+Code and notebooks accompanying the **ICLR 2026** paper.
 
 Tin Hadži Veljković · Erik Bekkers · Michael Tiemann · Jan-Willem van de Meent
 
