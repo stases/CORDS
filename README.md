@@ -9,7 +9,9 @@
 
 <div align="center">
 
-# CORDS: Continuous Representations of Discrete Structures
+<img src="docs/branding/cords-banner.svg" width="100%" alt="CORDS: Continuous Representations of Discrete Structures">
+
+<br>
 
 Code and notebooks accompanying the **ICLR 2026** paper.
 
@@ -31,15 +33,6 @@ This repository contains a minimal implementation of the representation,
 reconstruction tools, and examples for molecules and MNIST object detection.
 The notebooks introduce the equations, visualize roundtrips from sets to fields
 and back, and demonstrate how to train models in field space.
-
-<p align="center">
-  <img src="docs/images/figure-1.png" width="620" alt="Figure 1: annotated MNIST digits above a shared density field and class-specific feature fields.">
-</p>
-
-**Figure 1 from the paper.** Each annotated digit contributes a kernel to the
-density field and its corresponding class feature field. Integrating the density
-gives the number of digits. For detection, these fields serve as training targets
-for a network that predicts them from the image.
 
 ## How CORDS works
 
